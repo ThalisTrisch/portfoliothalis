@@ -1,0 +1,143 @@
+body{
+    margin:0px;
+}
+.tabela{
+    width:100%;
+    height: 100%;
+    background-color:rgba(117, 209, 221, 0.795);
+    margin-top: 0px;
+}.tabela1{
+    width:100%;
+    height: 100%;
+    margin:0px;
+    background-color:rgba(117, 209, 221, 0.795);
+}.div{
+    background-color: rgb(24, 23, 23);
+    margin:0px;
+    height:4px;
+    width: 100%;
+}.div1{
+    width:100%;
+    height:210px;
+    margin:0px;
+}.div3{
+    width:100%;
+    height:130px;
+    margin:0px;
+}.div2{
+    width:100%;
+    height:405px;
+    margin:0px;
+}.topo{
+    width:100%;
+    height:18%;
+    background-color:rgb(82, 104, 112);
+    border-bottom-width: 8px;
+    position: fixed;
+}.barra{
+    width:100%;
+    height:4px;
+    background-color: rgb(46, 46, 46);
+    margin-bottom: 0px;
+    vertical-align: bottom;
+}.titulo{
+    margin-top:120px;
+text-align:center
+}.titulo2{
+    text-align:center
+}.tabela0{
+    width:100%;
+    height:100%;
+
+}.imagem{
+    height: 82px;
+    float:right;
+    margin-right: 10px;
+    border-width: 2px;
+    border:black;
+    border-radius: 20px;
+}.texto{
+    text-align: right;
+    margin-right: 120px;
+    size: 5px;
+}.divs{
+    width:20%;
+}.divs2{
+    width:60%;
+}.sobre{
+    width:120px;
+    height:50px;
+    font-size:17px;
+    border:solid;
+    border-radius: 30px;
+    border-width: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color:rgb(184, 184, 184);
+    background: transparent;
+    color: rgb(184, 184, 184);
+    transform: color;
+    margin-left: 5%;
+}
+:hover.sobre{
+    transition-duration: 0.6s;
+    color: rgb(155, 255, 242);
+    border-color: rgb(155, 255, 242);
+    background: rgba(55, 208, 235, 0.644);
+    transform: scale(1.06);
+}.nome{
+    font-size:18px;
+}.titulomaior{
+    font-size: 36px;
+    height: 32px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: rgb(184, 184, 184);
+}.newtabela{
+    height: 100%;
+    width: 100%;
+}.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}.parag{
+    font-size: large;
+}.imagens{
+    width: 75%;
+}.text{
+    width: 25%;
+}.todas{
+    margin-left: 80px;
+}.all{
+    margin-left: 20px;
+}.imagens2{
+    width: 75%;
+}.all2{
+    margin-left: 40px;
+}.img2{
+    height: 180px;
+    width: 180px;
+    border-radius: 5px;
+}.paragrafo{
+    margin-top: 60px;
+    font-size: 25px;
+    width: 60%;
+    text-align: justify;
+}.bod{
+    background-color: rgb(133, 179, 167);
+}.img3{
+    height: 60%;
+    width: 90%;
+    border-radius: 15px;
+    border:inset;
+}.img4{
+    height: 70%;
+    width: 70%;
+    border-radius: 15px;
+    border:inset;
+}.tab{
+    height: 100%;
+    width: 100%;
+}.colum{
+    width: 25%;
+}
